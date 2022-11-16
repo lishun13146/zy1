@@ -1,0 +1,31 @@
+div
+{
+    text-align:center;
+    padding:1px;
+    font-size:280px;
+    white-space:nowrap;
+}
+.a
+{
+    color:red;
+}
+.b
+{
+    color:yellow;
+}
+.c
+{
+    color:blue;
+}
+.d
+{
+    color:black;
+}
+.e
+{
+    color:powderblue;
+}
+.f
+{
+    color:green;                                
+}
